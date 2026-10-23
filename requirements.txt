@@ -1,7 +1,6 @@
-streamlit==1.32.0
+streamlit
 moviepy==1.0.3
-pillow==10.2.0
-numpy==1.26.4
-yt-dlp==2024.3.10
-imageio==2.34.0
-imageio-ffmpeg==0.4.9
+pillow
+numpy
+yt-dlp
+imageio<3.0
